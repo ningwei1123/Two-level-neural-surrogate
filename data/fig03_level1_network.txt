@@ -1,0 +1,7 @@
+# =========================================================================
+# Figure 3 -- level1_network
+# drawn by fig2_pinn_arch_en.png   (1 axes)
+# =========================================================================
+
+# Schematic panel: geometry, network blocks and arrows only.
+# It carries no measured data; see Section 2-3 of the manuscript.

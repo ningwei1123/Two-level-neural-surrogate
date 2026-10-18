@@ -1,0 +1,7 @@
+# =========================================================================
+# Figure 1 -- surrogate_architecture
+# drawn by fig4_system_pipeline_en.png   (1 axes)
+# =========================================================================
+
+# Schematic panel: geometry, network blocks and arrows only.
+# It carries no measured data; see Section 2-3 of the manuscript.

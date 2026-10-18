@@ -1,0 +1,55 @@
+# =========================================================================
+# Figure 2 -- plate_benchmark
+# drawn by fig1_plate_setup_en.png   (1 axes)
+# =========================================================================
+
+# ax0 line0  label=''  n=2
+#   col1 = x, col2 = y
+0.25	0
+0.25	1
+
+# ax0 line1  label=''  n=2
+#   col1 = x, col2 = y
+0	0.25
+1	0.25
+
+# ax0 line2  label=''  n=2
+#   col1 = x, col2 = y
+0.5	0
+0.5	1
+
+# ax0 line3  label=''  n=2
+#   col1 = x, col2 = y
+0	0.5
+1	0.5
+
+# ax0 line4  label=''  n=2
+#   col1 = x, col2 = y
+0.75	0
+0.75	1
+
+# ax0 line5  label=''  n=2
+#   col1 = x, col2 = y
+0	0.75
+1	0.75
+
+# ax0 line6  label=''  n=2
+#   col1 = x, col2 = y
+0	-0.014
+1	-0.014
+
+# ax0 line7  label=''  n=2
+#   col1 = x, col2 = y
+0	1.014
+1	1.014
+
+# ax0 line8  label=''  n=2
+#   col1 = x, col2 = y
+-0.014	0
+-0.014	1
+
+# ax0 line9  label=''  n=2
+#   col1 = x, col2 = y
+1.014	0
+1.014	1
+

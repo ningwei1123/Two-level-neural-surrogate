@@ -1,0 +1,11 @@
+# Versions measured on the workstation used for the manuscript (CPU only).
+# Newer releases are expected to work; nothing here depends on a specific
+# minor version except the float64 numerics, which are stable across releases.
+
+python>=3.10
+
+torch>=2.0        # measured: 2.14.0+cpu
+numpy>=1.24       # measured: 2.5.2
+scipy>=1.10       # measured: 1.18.1  (sparse LU: scipy.sparse.linalg.splu)
+matplotlib>=3.7   # measured: 3.11.1
+pillow>=9.0       # used by _png_rgb.py for the 300 dpi re-tagging

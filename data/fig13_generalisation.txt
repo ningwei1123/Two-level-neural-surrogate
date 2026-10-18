@@ -1,0 +1,29 @@
+# =========================================================================
+# Figure 13 -- generalisation
+# drawn by fig9_generalization_en.png   (1 axes)
+# =========================================================================
+
+# ax0 errorbar0  label=''  marker='o'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+-0.17	0.0121036	0.00661485	0.00661485
+
+# ax0 errorbar1  label=''  marker='s'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+0.17	0.0203284	0.00808359	0.00808359
+
+# ax0 errorbar2  label=''  marker='o'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+0.83	0.0551981	0.00227371	0.00227371
+
+# ax0 errorbar3  label=''  marker='s'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+1.17	0.0602783	0.00265822	0.00265822
+
+# ax0 errorbar4  label=''  marker='o'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+1.83	0.0498099	0.00311561	0.00311561
+
+# ax0 errorbar5  label=''  marker='s'  n=1
+#   col1 = x, col2 = y (central value), col3 = lower err, col4 = upper err (0 if no bar was drawn)
+2.17	0.0552251	0.00352492	0.00352492
+

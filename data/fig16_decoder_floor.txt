@@ -1,0 +1,44 @@
+# =========================================================================
+# Figure 16 -- decoder_floor
+# drawn by fig18_decoder_floor_en.png   (1 axes)
+# =========================================================================
+
+# ax0 line0  label=''  n=2
+#   col1 = x, col2 = y
+0.00126332	2
+0.00970628	2
+
+# ax0 line1  label='BFS interpolant'  n=1
+#   col1 = x, col2 = y
+0.00126332	2
+
+# ax0 line2  label='operator + decoder'  n=1
+#   col1 = x, col2 = y
+0.00970628	2
+
+# ax0 line3  label=''  n=2
+#   col1 = x, col2 = y
+0.00126332	1
+0.00829063	1
+
+# ax0 line4  label=''  n=1
+#   col1 = x, col2 = y
+0.00126332	1
+
+# ax0 line5  label=''  n=1
+#   col1 = x, col2 = y
+0.00829063	1
+
+# ax0 line6  label=''  n=2
+#   col1 = x, col2 = y
+0.0494894	0
+0.02094	0
+
+# ax0 line7  label=''  n=1
+#   col1 = x, col2 = y
+0.0494894	0
+
+# ax0 line8  label=''  n=1
+#   col1 = x, col2 = y
+0.02094	0
+

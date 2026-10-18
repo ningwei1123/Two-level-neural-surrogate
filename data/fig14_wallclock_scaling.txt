@@ -1,0 +1,28 @@
+# =========================================================================
+# Figure 14 -- wallclock_scaling
+# drawn by fig12_scaling_en.png   (1 axes)
+# =========================================================================
+
+# ax0 line0  label='dense FE, fresh per load'  n=3
+#   col1 = x, col2 = y
+4	2.07
+8	10.557
+16	40.17
+
+# ax0 line1  label='sparse FE, reused factor'  n=3
+#   col1 = x, col2 = y
+4	0.006
+8	0.022
+16	0.228
+
+# ax0 line2  label='surrogate, batched'  n=3
+#   col1 = x, col2 = y
+4	0.698
+8	1.27
+16	4.286
+
+# ax0 line3  label='surrogate, unbatched loop'  n=2
+#   col1 = x, col2 = y
+4	12.7932
+8	23.5758
+

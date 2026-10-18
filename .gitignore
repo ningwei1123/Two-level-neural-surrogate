@@ -1,0 +1,20 @@
+# run-time products of the analysis scripts
+results/
+*.pt
+*.npz
+*.npy
+
+# generated figures (the numerical content lives in data/)
+*.png
+*.pdf
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
